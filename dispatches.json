@@ -6,7 +6,7 @@
         "latitude": 5.5640683,
         "longitude": 8.1128483,
         "totalWeightChange" : "40000",
-        "type": "loading",
+        "dispatchStopWeightChangeType": "RISE",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     },
     {
@@ -16,7 +16,7 @@
         "latitude": 5.5640683,
         "longitude": 8.1128483,
         "totalWeightChange" : "50000",
-        "type": "offLoading",
+        "dispatchStopWeightChangeType": "DROP",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     },
     {
@@ -26,7 +26,7 @@
         "latitude": 5.5640683,
         "longitude": 8.1128483,
         "totalWeightChange" : "60000",
-        "type": "loading",
+        "dispatchStopWeightChangeType": "RISE",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     },
     {
@@ -35,7 +35,7 @@
         "endTime": 1631183903,
         "latitude": 5.5640683,
         "longitude": 8.1128483,
-        "type": "offLoading",
+        "dispatchStopWeightChangeType": "DROP",
         "totalWeightChange" : "70000",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     },
@@ -46,7 +46,7 @@
         "latitude": 5.5640683,
         "longitude": 8.1128483,
         "totalWeightChange" : "80000",
-        "type": "loading",
+        "dispatchStopWeightChangeType": "RISE",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     },
     {
@@ -56,7 +56,7 @@
         "latitude": 5.5640683,
         "longitude": 8.1128483,
         "totalWeightChange" : "90000",
-        "type": "offLoading",
+        "dispatchStopWeightChangeType": "DONE",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     },
     {
@@ -67,6 +67,7 @@
         "type": "loading",
         "longitude": 8.1128483,
         "totalWeightChange" : "20000",
+        "dispatchStopWeightChangeType": "RISE",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     },
     {
@@ -75,7 +76,7 @@
         "endTime": 1631183903,
         "latitude": 5.5640683,
         "longitude": 8.1128483,
-        "type": "offLoading",
+        "dispatchStopWeightChangeType": "DONE",
         "totalWeightChange" : "10000",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     },
@@ -87,6 +88,7 @@
         "longitude": 8.1128483,
         "type": "loading",
         "totalWeightChange" : "15000",
+        "dispatchStopWeightChangeType": "RISE",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     },
     {
@@ -97,6 +99,7 @@
         "longitude": 8.1128483,
         "type": "offLoading",
         "totalWeightChange" : "30000",
+        "dispatchStopWeightChangeType": "DONE",
         "address": "Katsina Ala Calabar Rd, 542109, Nigeria"
     }
 ]
